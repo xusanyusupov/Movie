@@ -1,0 +1,25 @@
+/* src={`https://image.tmdb.org/t/p/original/${movie.backdrop_path}`} */
+.swiper-pagination-bullet {
+    background-color: rgba(255, 0, 0, 0.651);
+}
+
+.swiper-pagination-bullet.swiper-pagination-bullet-active {
+    background-color: red;
+}
+
+.swiper-button-prev {
+    color: red;
+}
+
+.swiper-button-prev::after {
+    content: '';
+    color: red;
+}
+.swiper-button-next {
+    color: red;
+}
+
+.swiper-button-next::after {
+    content: '';
+    color: red;
+}

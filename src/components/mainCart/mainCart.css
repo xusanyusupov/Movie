@@ -1,0 +1,7 @@
+.scrollUchun{
+    scrollbar-width: thin; 
+    scrollbar-color: red transparent;
+    scroll-behavior: smooth;
+}
+
+  
